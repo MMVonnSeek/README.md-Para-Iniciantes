@@ -29,7 +29,7 @@ Um bom `README` de perfil para iniciantes deve ser simples, direto e convidativo
 Para começar, use nosso template simples e preencha as informações:
 
 1.  Abra o arquivo `README.md` no seu novo repositório especial.
-2.  Copie o conteúdo do nosso template: [templates/PERFIL_SIMPLES.md](../templates/PERFIL_SIMPLES.md).
+2.  Copie o conteúdo do nosso template: [templates/PERFIL_SIMPLES.md](../Template_para_Perfil.md).
 3.  Cole no seu `README.md` e substitua os textos entre colchetes (`[ ]`) pelas suas informações.
 
 ## Dica: Badges Simples
