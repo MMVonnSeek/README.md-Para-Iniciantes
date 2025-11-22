@@ -48,3 +48,6 @@ Para facilitar, criamos templates simples e fáceis de adaptar. Basta copiar o c
 ## Pratique!
 
 A melhor forma de aprender é fazendo. Use o guia de Markdown para praticar a formatação e aplique os templates nos seus projetos. Um `README` bem feito é o primeiro passo para se destacar na comunidade de desenvolvimento!
+
+
+#### Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
