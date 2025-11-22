@@ -1,5 +1,14 @@
 # README Para Iniciantes: Seu Guia Essencial no GitHub
 
+![Max Müller](https://img.shields.io/badge/Autor-Max%20M%C3%BCller-blue?style=for-the-badge&logo=github)
+![README Guide](https://img.shields.io/badge/README-Guia%20Completo-blue?style=for-the-badge&logo=markdown)
+![Documentation](https://img.shields.io/badge/Documentação-Profissional-brightgreen?style=for-the-badge&logo=readthedocs)
+![Beginner Friendly](https://img.shields.io/badge/Para%20Iniciantes-Friendly-yellow?style=for-the-badge&logo=github)
+![Step by Step](https://img.shields.io/badge/Aprendizado-Passo%20a%20Passo-orange?style=for-the-badge&logo=gitbook)
+![Markdown](https://img.shields.io/badge/Markdown-Essencial-000000?style=for-the-badge&logo=markdown)
+![Educational](https://img.shields.io/badge/Propósito-Educacional-purple?style=for-the-badge&logo=graduation-cap)
+
+
 ## Bem-vindo ao Mundo da Documentação!
 
 Se você está começando no GitHub, o `README.md` é a primeira coisa que você precisa dominar. Ele é o **cartão de visitas** do seu código e do seu perfil.
