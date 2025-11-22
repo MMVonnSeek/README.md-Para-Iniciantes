@@ -1,4 +1,4 @@
-# README Para Novatos: Seu Guia Essencial no GitHub
+# README Para Iniciantes: Seu Guia Essencial no GitHub
 
 ## Bem-vindo ao Mundo da Documentação!
 
